@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "The Shawshank Redemption",
+    "director": "Frank Darabont",
+    "rating": 9.3,
+    "image": "https://upload.wikimedia.org/wikipedia/en/8/81/ShawshankRedemptionMoviePoster.jpg"
+  },
+  {
+    "id": 2,
+    "name": "The Godfather",
+    "director": "Francis Ford Coppola",
+    "rating": 9.2,
+    "image": "https://upload.wikimedia.org/wikipedia/en/1/1c/Godfather_ver1.jpg"
+  },
+  {
+    "id": 3,
+    "name": "The Dark Knight",
+    "director": "Christopher Nolan",
+    "rating": 9.0,
+    "image": "https://moviesmedia.ign.com/movies/image/object/752/752133/DomBatpod_OneSheet.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Schindler's List",
+    "director": "Steven Spielberg",
+    "rating": 8.9,
+    "image": "https://upload.wikimedia.org/wikipedia/en/3/38/Schindler%27s_List_movie.jpg"
+  },
+  {
+    "id": 5,
+    "name": "The Lord of the Rings: The Return of the King",
+    "director": "Peter Jackson",
+    "rating": 8.9,
+    "image": "https://moviesmedia.ign.com/movies/image/object/487/487665/lotr_the-return-of-the-king_poster.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Pulp Fiction",
+    "director": "Quentin Tarantino",
+    "rating": 8.9,
+    "image": "https://m.media-amazon.com/images/S/pv-target-images/dbb9aff6fc5fcd726e2c19c07f165d40aa7716d1dee8974aae8a0dad9128d392.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Fight Club",
+    "director": "David Fincher",
+    "rating": 8.8,
+    "image": "https://upload.wikimedia.org/wikipedia/en/f/fc/Fight_Club_poster.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Forrest Gump",
+    "director": "Robert Zemeckis",
+    "rating": 8.8,
+    "image": "https://upload.wikimedia.org/wikipedia/en/6/67/Forrest_Gump_poster.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Inception",
+    "director": "Christopher Nolan",
+    "rating": 8.8,
+    "image": "https://i1.sndcdn.com/artworks-000459926574-wfg5of-t500x500.jpg"
+  },
+  {
+    "id": 10,
+    "name": "The Matrix",
+    "director": "The Wachowskis",
+    "rating": 8.7,
+    "image": "https://upload.wikimedia.org/wikipedia/en/c/c1/The_Matrix_Poster.jpg"
+  }
+]
